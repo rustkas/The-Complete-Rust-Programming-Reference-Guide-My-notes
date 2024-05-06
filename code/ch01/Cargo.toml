@@ -1,0 +1,7 @@
+workspace = { members = [ "members/arrays", "members/closures", "members/enum_methods", "members/enums", "members/exercise_word_counter", "members/first_program", "members/for_loops", "members/function_mut", "members/functions","members/greet", "members/hashmaps", "members/if_assign", "members/if_else", "members/loop_labels", "members/loops", "members/match_expression", "members/slices", "members/strings", "members/struct_methods", "members/structs", "members/tuple_struct", "members/tuples", "members/uses", "members/variables", "members/vec", "members/while_project"]}
+[package]
+name = "ch01"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

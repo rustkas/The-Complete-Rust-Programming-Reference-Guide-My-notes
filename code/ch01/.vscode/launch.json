@@ -1,0 +1,62 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug executable 'exercise_word_counter'",
+      "cargo": {
+        "args": [
+          "build",
+          "--bin=exercise_word_counter",
+          "--package=exercise_word_counter"
+        ],
+        "filter": {
+          "name": "exercise_word_counter",
+          "kind": "bin"
+        }
+      },
+      "args": ["info.txt"],
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug executable 'first_program'",
+      "cargo": {
+        "args": [
+          "build",
+          "--bin=first_program",
+          "--package=first_program"
+        ],
+        "filter": {
+          "name": "first_program",
+          "kind": "bin"
+        }
+      },
+      "args": ["Anatolii"],
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug executable 'greet'",
+      "cargo": {
+        "args": [
+          "build",
+          "--bin=greet",
+          "--package=greet"
+        ],
+        "filter": {
+          "name": "greet",
+          "kind": "bin"
+        }
+      },
+      "args": ["Anatolii"],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
