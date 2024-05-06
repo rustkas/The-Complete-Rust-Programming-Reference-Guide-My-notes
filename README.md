@@ -1,4 +1,5 @@
-# The-Complete-Rust-Programming-Reference-Guide-My-notes
+# The Complete Rust Programming Reference Guide
+## My Notes
 Cargo project base on code examples of The Complete Rust Programming Reference Guide
 
 
