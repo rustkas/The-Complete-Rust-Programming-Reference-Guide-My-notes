@@ -1,0 +1,2 @@
+-`cargo run --example`
+-`cargo run --example basic`

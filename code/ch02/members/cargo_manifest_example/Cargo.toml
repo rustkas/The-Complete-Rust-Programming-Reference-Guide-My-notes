@@ -1,0 +1,16 @@
+[package]
+name = "cargo_manifest_example"
+version = "1.0.0"
+description = "An example of Cargo metadata"
+documentation = "https://docs.rs/dummy_crate"
+license = "MIT"
+readme = "README.md"
+keywords = ["example", "cargo", "mastering"]
+authors = ["Anatolii Kosorukov <java1cprog@gmail.com>"]
+
+edition = "2021"
+
+[dependencies]
+serde = "1.0"
+serde_json = "1.0"
+

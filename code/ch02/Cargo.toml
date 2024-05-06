@@ -1,0 +1,7 @@
+workspace = { members = ["members/cargo_manifest_example", "members/imgtool", "members/my_program", "members/myexponent", "members/workspace_demo"]}
+[package]
+name = "ch02"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
