@@ -1,0 +1,2 @@
+- `cargo add --dev criterion`
+-`cargo bench`

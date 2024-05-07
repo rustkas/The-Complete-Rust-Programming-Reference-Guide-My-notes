@@ -1,0 +1,7 @@
+workspace = { members = ["members/bench-example", "members/criterion-demo", "members/logic-gates", "members/unit-test"]}
+[package]
+name = "ch03"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
