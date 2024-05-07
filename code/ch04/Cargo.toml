@@ -1,0 +1,13 @@
+workspace = {members= ["members/complex", "members/expressions", "members/generic_enum", "members/generic_function", "members/generic_struct_impl", "members/impl_trait_both", "members/impl_trait_closure", "members/super-player" , "members/trait_bound_basics_fixed", "members/trait_bounds_intro", "members/trait_inheritance", "members/traits_composition"]}
+
+[package]
+name = "ch04"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+
+    
+
