@@ -1,7 +1,8 @@
-![Build Status](https://travis-ci.org/rustkas/The-Complete-Rust-Programming-Reference-Guide-My-notes.svg?branch=master)
+![Build Status](https://app.travis-ci.com/rustkas/The-Complete-Rust-Programming-Reference-Guide-My-notes.svg?token=ea8GnyuqcihqmZXLq6CW&branch=main)
 
 
-(https://travis-ci.org/creativcoder/logic_gates)
+
+
 # The Complete Rust Programming Reference Guide
 ## My Notes
 Cargo project base on code examples of The Complete Rust Programming Reference Guide
