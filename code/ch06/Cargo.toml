@@ -1,0 +1,7 @@
+workspace={members=["members/catch_unwind", "members/panic_unwinding", "members/result_basics","members/result_variations", "members/using_options", "members/using_question_operator"]}
+[package]
+name = "ch06"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

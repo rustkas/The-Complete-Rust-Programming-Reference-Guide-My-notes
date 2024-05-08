@@ -1,0 +1,7 @@
+workspace={members = ["members/serde-demo", "members/const_fns", "members/function_types", "members/let_ref_mut", "members/ufcs", "members/unions", "members/mem_introspection", "members/pointer_layouts"]}
+[package]
+name = "ch07"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
