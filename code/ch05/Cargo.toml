@@ -1,0 +1,7 @@
+workspace={members = [ "members/borrowing_functions", "members/linked_list", "members/ownership_match", "members/rc_weak","members/todolist_parser"]}
+[package]
+name = "ch05"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
