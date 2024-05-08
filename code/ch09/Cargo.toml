@@ -1,3 +1,4 @@
+workspace={members=["members/c_macros_rust", "members/concan-demo","members/first_macro", "members/http_tester", "members/macro-map"]}
 [package]
 name = "ch09"
 version = "0.1.0"
